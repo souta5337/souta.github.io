@@ -26,7 +26,7 @@ li{
 #header{
   width:100%;
   min-height:100vh;
-  background-image: url(../img/goma\ up1.jpg);
+  background-image: url(goma\ up1.jpg);
   background-size:cover;
   background-position:center top;
   background-repeat: no-repeat;
@@ -74,7 +74,7 @@ nav li a:hover::after {
 }
 
 #about .about-img{
-  background-image: url(../img/goma\ wolk2.jpg);
+  background-image: url(goma\ wolk2.jpg);
   background-attachment:fixed;
   background-position:center;
   background-size:cover;
@@ -112,7 +112,7 @@ nav li a:hover::after {
 /* course */
 #course .course-img{
   margin-top:100px;
-  background-image: url(../img/goma\ wolk2.jpg);
+  background-image: url(goma\ wolk2.jpg);
   background-attachment:fixed;
   background-position:center;
   background-size:cover;
@@ -187,7 +187,7 @@ nav li a:hover::after {
 /* accses */
 #accses .accses-img{
   margin-top:100px;
-  background-image: url(../img/S__110837765.jpg);
+  background-image: url(S__110837765.jpg);
   background-attachment:fixed;
   background-position:center;
   background-size:cover;
