@@ -74,7 +74,7 @@ nav li a:hover::after {
 }
 
 #about .about-img{
-  background-image: url(goma\ wolk2.jpg);
+  background-image: url(https://github.com/souta5337/souta.github.io/blob/main/goma%20wolk2.jpg?raw=true);
   background-attachment:fixed;
   background-position:center;
   background-size:cover;
@@ -112,7 +112,7 @@ nav li a:hover::after {
 /* course */
 #course .course-img{
   margin-top:100px;
-  background-image: url(goma\ wolk2.jpg);
+  background-image: url(https://github.com/souta5337/souta.github.io/blob/main/goma%20wolk2.jpg?raw=true);
   background-attachment:fixed;
   background-position:center;
   background-size:cover;
